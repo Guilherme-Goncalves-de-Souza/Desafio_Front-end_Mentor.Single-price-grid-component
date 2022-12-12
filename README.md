@@ -1,4 +1,4 @@
-# Desafio_Front-end_Mentor.Single-price-grid-component
+# Desafio Front-end Mentor: Single price grid component.
 
 Projeto feito sozinho, colocando em prática meus conhecimentos de HTML e CSS.
 
